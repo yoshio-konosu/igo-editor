@@ -12,8 +12,8 @@
 
 ## 概要
  電子版の碁盤と碁石です。（iPad 専用）
-”iGO editor”		：棋譜の編集と保管
-”iGO editor 保管庫”	：保管した棋譜の再生
+&nbsp; ”iGO editor”		：棋譜の編集と保管
+&nbsp; ”iGO editor 保管庫”	：保管した棋譜の再生
 
 ### 機能の詳細
 + 対　戦  
