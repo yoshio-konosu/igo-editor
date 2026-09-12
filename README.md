@@ -10,9 +10,12 @@
 2. [プライバシーポリシー](https://yoshio-konosu.github.io/igo-editor/)
 3. [コンタクト](mailto:y.konosu.igoeditor@gmail.com)
 
-## 操作説明
- 電子版の碁盤と碁石です。（iPad 12.9_inch 専用）
-  
+## 概要
+ 電子版の碁盤と碁石です。（iPad 専用）
+”iGO editor”		：棋譜の編集と保管
+”iGO editor 保管庫”	：保管した棋譜の再生
+
+### 機能の詳細
 + 対　戦  
 &nbsp; ルール通りに碁石を置けます。  
   
