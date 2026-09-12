@@ -11,7 +11,7 @@
 3. [コンタクト](mailto:y.konosu.igoeditor@gmail.com)
 
 ## 概要
- 電子版の碁盤と碁石です。（iPad 専用）
++ 電子版の碁盤と碁石です。（iPad 専用）
 &nbsp; ”iGO editor”		：棋譜の編集と保管
 &nbsp; ”iGO editor 保管庫”	：保管した棋譜の再生
 
