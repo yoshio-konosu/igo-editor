@@ -10,9 +10,6 @@
 &nbsp; ”iGO editor”		　　：棋譜の編集と保管  
 &nbsp; ”iGO editor 保管庫”	：保管した棋譜の再生  
   
-markdown”iGO editor”		：棋譜の編集と保管
-”iGO editor 保管庫”	：保管した棋譜の再生
-
 ## 機能の詳細
 ### ”iGO editor”　画面の操作説明
 
