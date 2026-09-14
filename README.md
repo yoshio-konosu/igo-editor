@@ -13,18 +13,18 @@ https://github.com/user-attachments/assets/0ea31589-5fdd-44cd-ae30-b3df07262b3c
 ### 📱 iPad Air/Pro 11インチ
 <table>
   <tr>
-    <td><img src="ここに11インチの画像URL_1" width="30%" alt="11-inch 1"></td>
-    <td><img src="ここに11インチの画像URL_2" width="30%" alt="11-inch 2"></td>
-    <td><img src="ここに11インチの画像URL_3" width="30%" alt="11-inch 3"></td>
+    <td><img src="https://github.com/user-attachments/assets/d2bc6a30-d9c9-452a-af44-f93a779d3359" width="260" alt="11-inch 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/7935ce74-d51e-4a32-8b7e-d7b5e950320f" width="260" alt="11-inch 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/5d734387-6197-490f-bf60-447cb92cc56f" width="260" alt="11-inch 3"></td>
   </tr>
 </table>
 
 ### 📱 iPad mini
 <table>
   <tr>
-    <td><img src="ここにminiの画像URL_1" width="220" alt="mini 1"></td>
-    <td><img src="ここにminiの画像URL_2" width="220" alt="mini 2"></td>
-    <td><img src="ここにminiの画像URL_3" width="220" alt="mini 3"></td>
+    <td><img src="ここにminiの画像URL_1" width="260" alt="mini 1"></td>
+    <td><img src="ここにminiの画像URL_2" width="260" alt="mini 2"></td>
+    <td><img src="ここにminiの画像URL_3" width="260" alt="mini 3"></td>
   </tr>
 </table>
 
