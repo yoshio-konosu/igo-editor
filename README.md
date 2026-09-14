@@ -2,7 +2,32 @@
 
 
 https://github.com/user-attachments/assets/0ea31589-5fdd-44cd-ae30-b3df07262b3c
+### 📱 iPad Pro 13インチ
+<table>
+  <tr>
+    <td><img src="ここに13インチの画像URL_1" width="220" alt="13-inch 1"></td>
+    <td><img src="ここに13インチの画像URL_2" width="220" alt="13-inch 2"></td>
+    <td><img src="ここに13インチの画像URL_3" width="220" alt="13-inch 3"></td>
+  </tr>
+</table>
 
+### 📱 iPad Air/Pro 11インチ
+<table>
+  <tr>
+    <td><img src="ここに11インチの画像URL_1" width="220" alt="11-inch 1"></td>
+    <td><img src="ここに11インチの画像URL_2" width="220" alt="11-inch 2"></td>
+    <td><img src="ここに11インチの画像URL_3" width="220" alt="11-inch 3"></td>
+  </tr>
+</table>
+
+### 📱 iPad mini
+<table>
+  <tr>
+    <td><img src="ここにminiの画像URL_1" width="220" alt="mini 1"></td>
+    <td><img src="ここにminiの画像URL_2" width="220" alt="mini 2"></td>
+    <td><img src="ここにminiの画像URL_3" width="220" alt="mini 3"></td>
+  </tr>
+</table>
 
 
 # iGO-editor
