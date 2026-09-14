@@ -3,9 +3,9 @@ https://github.com/user-attachments/assets/0ea31589-5fdd-44cd-ae30-b3df07262b3c
 ### 📱 iPad Pro 13インチ
 <table>
   <tr>
- width="260" alt="13-inch 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/0e51f84f-81d6-4bcf-9a0f-6818df715b10" width="260" alt="13-inch 1"></td>
     <td><img src="https://github.com/user-attachments/assets/5ad27100-3e76-4810-8989-1a8f385a6d31" width="260" alt="13-inch 2"></td>
-    <td><img src="https://github.com/user-attachments/assets/50c2869d-1db2-4cbc-baa5-58617e7b6c6f"" width="260" alt="13-inch 3"></td>
+    <td><img src="https://github.com/user-attachments/assets/50c2869d-1db2-4cbc-baa5-58617e7b6c6f" width="260" alt="13-inch 3"></td>
   </tr>
 </table>
 
@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/0ea31589-5fdd-44cd-ae30-b3df07262b3c
   <tr>
     <td><img src="https://github.com/user-attachments/assets/e1ffba6b-4b13-46dc-9de9-1be8e3831c04" width="260" alt="mini 1"></td>
     <td><img src="https://github.com/user-attachments/assets/090e4914-22fa-4a6d-a4e3-ad71877fac08" width="260" alt="mini 2"></td>
-    <td><img src="https://github.com/user-attachments/assets/0ab52941-294f-4ede-ba4f-d560cbc7bcf4" width="260" alt="mini 3
+    <td><img src="https://github.com/user-attachments/assets/0ab52941-294f-4ede-ba4f-d560cbc7bcf4" width="260" alt="mini 3"></td>
   </tr>
 </table>
 
