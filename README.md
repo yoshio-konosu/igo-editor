@@ -3,7 +3,7 @@ https://github.com/user-attachments/assets/0ea31589-5fdd-44cd-ae30-b3df07262b3c
 ### 📱 iPad Pro 13インチ
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f11b5bc9-d3e0-4433-9976-dff4d43bbaa3" width="260" alt="13-inch 1"></td>
+ width="260" alt="13-inch 1"></td>
     <td><img src="https://github.com/user-attachments/assets/5ad27100-3e76-4810-8989-1a8f385a6d31" width="260" alt="13-inch 2"></td>
     <td><img src="https://github.com/user-attachments/assets/50c2869d-1db2-4cbc-baa5-58617e7b6c6f"" width="260" alt="13-inch 3"></td>
   </tr>
@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/0ea31589-5fdd-44cd-ae30-b3df07262b3c
 ### 📱 iPad Air/Pro 11インチ
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/d2bc6a30-d9c9-452a-af44-f93a779d3359" width="260" alt="11-inch 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/8caf4157-a6c5-427b-9cc0-cf89a7dc058d" width="260" alt="11-inch 1"></td>
     <td><img src="https://github.com/user-attachments/assets/7935ce74-d51e-4a32-8b7e-d7b5e950320f" width="260" alt="11-inch 2"></td>
     <td><img src="https://github.com/user-attachments/assets/d931123d-4875-4424-99bf-126f0d094148" width="260" alt="11-inch 3"></td>
   </tr>
@@ -21,9 +21,9 @@ https://github.com/user-attachments/assets/0ea31589-5fdd-44cd-ae30-b3df07262b3c
 ### 📱 iPad mini
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/0ab52941-294f-4ede-ba4f-d560cbc7bcf4" width="260" alt="mini 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/e1ffba6b-4b13-46dc-9de9-1be8e3831c04" width="260" alt="mini 1"></td>
     <td><img src="https://github.com/user-attachments/assets/090e4914-22fa-4a6d-a4e3-ad71877fac08" width="260" alt="mini 2"></td>
-    <td><img src="https://github.com/user-attachments/assets/e1ffba6b-4b13-46dc-9de9-1be8e3831c04" width="260" alt="mini 3"></td>
+    <td><img src="https://github.com/user-attachments/assets/0ab52941-294f-4ede-ba4f-d560cbc7bcf4" width="260" alt="mini 3
   </tr>
 </table>
 
