@@ -4,9 +4,9 @@ https://github.com/user-attachments/assets/0ea31589-5fdd-44cd-ae30-b3df07262b3c
 ### 📱 iPad Pro 13インチ
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f11b5bc9-d3e0-4433-9976-dff4d43bbaa3" width="30%" alt="13-inch 1"></td>
-    <td><img src="https://github.com/user-attachments/assets/5ad27100-3e76-4810-8989-1a8f385a6d31" width="30%" alt="13-inch 2"></td>
-    <td><img src="https://github.com/user-attachments/assets/b5199436-e5d2-4792-9346-ae3a144d7f2a" width="30%" alt="13-inch 3"></td>
+    <td><img src="https://github.com/user-attachments/assets/f11b5bc9-d3e0-4433-9976-dff4d43bbaa3" width="260" alt="13-inch 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/5ad27100-3e76-4810-8989-1a8f385a6d31" width="260" alt="13-inch 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/b5199436-e5d2-4792-9346-ae3a144d7f2a" width="260" alt="13-inch 3"></td>
   </tr>
 </table>
 
